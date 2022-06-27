@@ -26,6 +26,6 @@ These clusters capture both biogeographic patterns (e.g., coral-dominated versus
 
 # About me
 
-Hi! My name is Clément VIOLET, I am a PhD candidat at IFREMER :dolphin:. I am interested in how do coastal reefs respond to global climate change. If you have any questions, suggestions or whant to discuss about this workp, please feel free to send me an e-mail! :smile:
+Hi! My name is Clément VIOLET, I am a PhD candidat at IFREMER :dolphin:. I am interested in how do coastal reefs respond to global climate change. If you have any questions, suggestions or whant to discuss about this work, please feel free to send me an e-mail! :smile:
 
 :email: [clement.violet@ifremer.fr](mailto:clement.violet@ifremer.fr)
